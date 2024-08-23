@@ -10,6 +10,12 @@ I'm a passionate developer with a focus on web development, especially in the ar
 - **Backend**: PHP, Laravel, MySQL
 - **Tools**: Git, GitHub, VS Code
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,tailwind,html,css,php,js,laravel,vscode,wordpress,figma,mysql,py,cloudflare" />
+  </a>
+</p>
+
 ---
 
 ### 🔗 Connect with Me
