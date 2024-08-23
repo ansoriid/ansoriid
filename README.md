@@ -4,11 +4,7 @@ I'm a passionate developer with a focus on web development, especially in the ar
 
 ---
 
-### 🛠 Tech Stack
-
-- **Frontend**: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
-- **Backend**: PHP, Laravel, MySQL
-- **Tools**: Git, GitHub, VS Code
+### Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -17,8 +13,13 @@ I'm a passionate developer with a focus on web development, especially in the ar
 </p>
 
 ---
+### Tools
 
-### 🔗 Connect with Me
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansoriid&layout=compact)
+
+---
+
+### Connect with Me
 
 - [GitHub](https://github.com/ansoriid)
 - [LinkedIn](https://www.linkedin.com/in/ahmadansori1)
