@@ -8,12 +8,12 @@ I'm a passionate developer with a focus on web development, especially in the ar
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,tailwind,html,css,php,js,laravel,vscode,wordpress,figma,mysql,py,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,tailwind,html,css,php,js,laravel,mysql,py,vscode,wordpress,figma,cloudflare" />
   </a>
 </p>
 
 ---
-### Tools
+### Statistics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansoriid&layout=compact)
 
