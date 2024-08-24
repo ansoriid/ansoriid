@@ -17,14 +17,14 @@ I'm a passionate developer with a focus on web development, especially in the ar
 
 <div align=center>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ansoriid&rank_icon=github&bg_color=000000&text_color=FFFFFF" />
+  <img height=200 weight=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ansoriid&rank_icon=github&bg_color=000000&text_color=FFFFFF" />
 </a>
 </div>
 <br/>
 
 <div align=center>
     <a href="https://wakatime.com/@ahmadansori">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ahmadansori&layout=compact&bg_color=000000&text_color=ffffff&langs_count=10" alt="ahmadansori's WakaTime stats">
+        <img weight=200 src="https://github-readme-stats.vercel.app/api/wakatime?username=@ahmadansori&layout=compact&bg_color=000000&text_color=ffffff&langs_count=10" alt="ahmadansori's WakaTime stats">
     </a>
 </div>
 
