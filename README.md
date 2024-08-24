@@ -24,7 +24,7 @@ I'm a passionate developer with a focus on web development, especially in the ar
 
 <div align=center>
     <a href="https://wakatime.com/@ahmadansori">
-        <img weight=200 src="https://github-readme-stats.vercel.app/api/wakatime?username=@ahmadansori&layout=compact&bg_color=000000&text_color=ffffff&langs_count=10" alt="ahmadansori's WakaTime stats">
+        <img weight=200 src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmadansori&layout=compact&bg_color=000000&text_color=ffffff&langs_count=10" alt="ahmadansori's WakaTime stats">
     </a>
 </div>
 
