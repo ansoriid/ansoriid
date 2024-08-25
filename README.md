@@ -8,7 +8,7 @@ I'm a passionate developer with a focus on web development, especially in the ar
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,tailwind,html,css,php,js,laravel,mysql,py,vscode,wordpress,figma,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,tailwind,html,css,php,js,jquery,laravel,mysql,py,vscode,wordpress,figma,cloudflare" />
   </a>
 </p>
 
