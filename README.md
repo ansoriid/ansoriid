@@ -27,7 +27,6 @@ I'm a passionate developer with a focus on web development, especially in the ar
 - [GitHub](https://github.com/ansoriid)
 - [LinkedIn](https://www.linkedin.com/in/ahmadansori1)
 - [Email](mailto:ahmadansori1111@gmail.com)
-- [Blog](https://www.ansoriweb.com)
 
 Feel free to check out my repositories and connect with me on social media!
 
